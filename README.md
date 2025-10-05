@@ -1,8 +1,5 @@
 # JMeterSandbox
-Hello
+JMeter script1
 
-Hello from Michael
-
-Hello from Michael #2
 
 
